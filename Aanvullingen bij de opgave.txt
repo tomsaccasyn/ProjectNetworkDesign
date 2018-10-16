@@ -1,0 +1,16 @@
+aanvullingen bij de opgave:
+
+Beste studenten,
+
+Een paar verduidelijkingen op basis van een aantal vragen die ik gisteren gekregen heb:
+
+- De internetverbinding van Shangai verloopt vanzelfsprekend niet via de Frame Relay link met New York maar staat daar los van. Dit leek in de tekening wat verwarrend.
+
+- De IP-adressen die Shangai en Mumbai gebruiken voor het Internet worden beide toegekend door hun respectievelijke ISP's. 
+
+- De bandbreedte van de internetverbinding in Shangai is 250 Mbps en voor Mumbai is dit 100 Mbps.
+
+Ik heb deze zaken ook (in het rood) aangevuld in de elektronische versie van de opgave.
+
+Vriendelijke groeten,
+Joeri Gerrits

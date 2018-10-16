@@ -1,0 +1,12 @@
+en
+	conf t
+		no ip domain-look
+		line vty 0
+			logging sync
+			exit
+		hostname (name)->zie Router NY 1
+		interface (name interface)
+			no shut
+			exit
+	copy run st
+	
